@@ -1,3 +1,3 @@
 # Bridgewater Raritan Panthers Snake Game
 
-https://github.com/intrepidbird/snake-game but Panther Themed
+[This](https://github.com/intrepidbird/snake-game) but Panther Themed
